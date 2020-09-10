@@ -6,6 +6,13 @@ let's play a CODE !
 
 uji coba membuat mesin atm di python full oop ( object oriented programing)
 
+
+# How To
+- Ubuntu
+python main.py
+
+- windows
+py main.py
 ## Connect with me:
 [<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt=" | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
